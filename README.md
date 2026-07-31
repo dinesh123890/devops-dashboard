@@ -28,6 +28,7 @@ This project is built as an end-to-end DevOps project to practice:
 - Docker
 - Jenkins
 - GitHub Actions
+- ArgoCD
 - Kubernetes
 - Prometheus
 - Grafana
@@ -36,9 +37,13 @@ This project is built as an end-to-end DevOps project to practice:
 - Shell Scripting
 - Linux
 
+
+
 ## Tech Stack
 
 - Python
 - Flask
 - psutil
 >>>>>>> f36beb0 (Inital Flask Monitoring Dashboard)
+
+
